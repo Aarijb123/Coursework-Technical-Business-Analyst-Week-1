@@ -1,0 +1,24 @@
+# Week 1 coursework ignore rules
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office temp files
+~$*
+*.tmp
+*.bak
+
+# Exported working files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Spreadsheet lock files
+*.xlsx.lock
+*.csv.lock
+
+# Editor settings
+.vscode/
+.idea/
