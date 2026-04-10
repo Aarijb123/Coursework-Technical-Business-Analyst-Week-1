@@ -1,0 +1,7 @@
+assumption_id,assumption_name,value,unit,source,confidence_level,notes
+A-01,agent_hourly_cost,22,hour,finance workbook,High,Fill from finance assumptions sample or your own justified value
+A-02,straightforward_case_share,0.38,ratio,Operations estimate,Medium,Record whether this is data-derived or estimated
+A-03,minutes_saved_per_case_balance_view,8,minutes,"Operations leadership , Operations target",Medium,Use scenario-based assumptions
+A-04,minutes_saved_per_case_promise_capture,8,minutes,"Operations leadership , Operations target",Medium,Use scenario-based assumptions
+A-05,recovery_uplift_percent_payment_plan,0.04,ratio,Finance estimate,Low,Keep this separate from time savings
+A-06,recovery_uplift_for_promise_capture,0.025,ratio,Finance estimate,Low,Use scenario-based assumptions

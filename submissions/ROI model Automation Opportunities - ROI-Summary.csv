@@ -1,0 +1,7 @@
+opportunity_id,opportunity_name,total_benefit,net_benefit,roi_percent,payback_months,effort_score,confidence_level,recommendation_note
+OP-01,Self-serve account summary,"£18,169.96","-£26,830.04",-5962%,29.72,3,medium,"Strong operational improvement that reduces inbound demand and improves customer clarity, but financial impact depends on real deflection rate and adoption consistency."
+OP-02,Digital promise-to-pay capture,"£924,113.31","£879,113.31",109889%,1.04,4,high,High-value revenue lever with clear behavioural linkage to recovery improvement; strong candidate for early delivery despite integration complexity.
+OP-03,Eligible payment-plan selection,"£1,474,341.63","£1,429,341.63",317631%,0.37,4,medium,Highest financial upside but dependent on accurate eligibility logic and customer acceptance; should be treated as strategic revenue engine with controlled rollout.
+OP-04,Contact detail update request,"£9,084.98","-£35,915.02",-7981%,59.44,2,high,Simple to implement with clear operational value; reduces failed contact loops and improves downstream effectiveness of all other interventions.
+OP-05,Rules-based routing,"£18,169.96","-£26,830.04",-3354%,52.83,5,medium,Complex cross-system dependency requiring process redesign and governance alignment; high operational value but significant implementation risk.
+OP-06,Case Validation,"£9,084.98","-£35,915.02",-7981%,59.44,3,high,Low complexity safeguard that reduces rework and prevents escalation of incomplete cases; strong foundational control layer for downstream automation.

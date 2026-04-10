@@ -2,6 +2,23 @@
 
 https://miro.com/app/board/uXjVGl71cSk=/?share_link_id=926618515590
 
+## Pain Points identified
+
+PP1 — Duplicate status checks
+    ~16% of sampled activities (8/50) are flagged duplicate (e.g. ACT-00003, ACT-00007, ACT-00014). Agents repeatedly re-check whether work has already been done before acting. Stakeholders Daniel Farmer and Diana White confirm this is a common time sink and a blocker to progress.
+
+PP2 — Spreadsheet reconciliation overhead
+    Agents regularly perform spreadsheet_reconcile as a separate task, but it often still results in next_action_unclear, meaning no resolution is reached. Amina Rahman highlights that mismatched systems are causing delay in straightforward cases, with reconciliation becoming a task in itself rather than a resolution step.
+
+PP3 - Missed or delayed follow-up
+    Multiple cases show no follow-up date despite unclear next steps (e.g. ACT-00001). Follow-ups depend on manual scheduling, with no system-driven nudges or enforcement. Clare Willis identifies missed follow-ups as a recurring operational gap.
+
+PP4 - Manual promise-to-pay tracking
+    Promise-to-pay activity is captured via free-text notes (e.g. manual_plan_note in ACT-00002, ACT-00010), with no structured field for tracking commitments. This limits visibility of whether engagement actions are actually converting into recovery. Sylvia Turner and Barry Skinner flag lack of reliable tracking as a key management issue.
+
+PP5 - Poor visibility at escalation
+    Escalated cases frequently arrive without complete context, resulting in awaiting_review or next_action_unclear outcomes (e.g. ACT-00005, ACT-00028). Christopher Richards and Dr Louis Sinclair warn that poor handoff quality risks agent rejection of upstream workflows.
+
 ## Current-state analysis summary
 
 The agent
