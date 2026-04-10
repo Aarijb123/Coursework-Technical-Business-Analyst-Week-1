@@ -1,7 +1,7 @@
 ## Problem Summary:
 Legacy-Trust is trying to fix a broken debt recovery operation where outdated systems are creating bottlenecks, inefficiencies, and measurable revenue loss. Agents are relying on spreadsheets, email trails, and manual workarounds to manage over 100,000 delinquent accounts, leading to missed follow-ups, duplicated activity, and inconsistent status updates.
 
-These short-term fixes fail at scale because they depend heavily on individual memory and manual reconciliation. As volumes grow, managers lose visibility of actions taken, agents apply inconsistent processes, and customers are pushed into slow, repetitive journeys. This not only reduces recovery rates but also limits operational capacity and erodes leadership confidence.
+The short-term fixes fail at scale because they depend heavily on individual memory and manual reconciliation. As volumes grow, managers lose visibility of actions taken, agents apply inconsistent processes, and customers are pushed into slow, repetitive journeys. This not only reduces recovery rates but also limits operational capacity and erodes leadership confidence.
 
 Before approving Phase 1, leadership will expect clear evidence of the financial impact of these inefficiencies, including time lost, revenue leakage, and process failure points, alongside a transparent, data-backed case showing where automation can deliver measurable improvements within 12 months.
 
